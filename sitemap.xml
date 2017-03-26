@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://stephengregory.github.io/art/cupboard-designs-p1/</loc>
+    <lastmod>2017-03-26T12:22:56-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stephengregory.github.io/art/</loc>
+    <lastmod>2017-03-20T13:44:03-03:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://stephengregory.github.io/notes-for-anna/</loc>
     <lastmod>2017-03-04T13:44:03-03:30</lastmod>
   </url>
@@ -18,13 +28,43 @@
   </url>
   
   <url>
+    <loc>https://stephengregory.github.io/tags/blimp-rock/</loc>
+    <lastmod>2017-03-26T12:22:56-02:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stephengregory.github.io/tags/cupboard-design/</loc>
+    <lastmod>2017-03-26T12:22:56-02:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stephengregory.github.io/tags/graphic-design/</loc>
+    <lastmod>2017-03-26T12:22:56-02:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stephengregory.github.io/tags/music/</loc>
+    <lastmod>2017-03-26T12:22:56-02:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://stephengregory.github.io/</loc>
-    <lastmod>2017-03-04T13:44:03-03:30</lastmod>
+    <lastmod>2017-03-26T12:22:56-02:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://stephengregory.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stephengregory.github.io/tags/the-burning-hell/</loc>
+    <lastmod>2017-03-26T12:22:56-02:30</lastmod>
     <priority>0</priority>
   </url>
   
