@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://stephengregory.github.io/art/cupboard-designs-p1/</loc>
@@ -34,6 +35,11 @@
   </url>
   
   <url>
+    <loc>https://stephengregory.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://stephengregory.github.io/tags/cupboard-design/</loc>
     <lastmod>2017-03-26T12:22:56-02:30</lastmod>
     <priority>0</priority>
@@ -59,6 +65,7 @@
   
   <url>
     <loc>https://stephengregory.github.io/tags/</loc>
+    <lastmod>2017-03-04T13:44:03-03:30</lastmod>
     <priority>0</priority>
   </url>
   
